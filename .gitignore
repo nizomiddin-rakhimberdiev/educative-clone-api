@@ -1,5 +1,0 @@
-.idea/
-.venv/
-Pipfile
-.gitignore
-db.sqlite3
