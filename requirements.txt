@@ -1,0 +1,4 @@
+Django==4.0.4
+djangorestframework==3.13.1
+Pillow==9.1.0
+Pygments==2.12.0
